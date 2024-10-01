@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "express": "^4.20.0",
+    "net-snmp": "^3.14.1"
+  }
+}
